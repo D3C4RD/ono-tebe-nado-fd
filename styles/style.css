@@ -285,6 +285,7 @@
 
 .footer .address {
   justify-self: flex-start;
+  max-width: 265px;
 }
 
 .footer__menu {
@@ -316,8 +317,5 @@
   width:100%;
 }
 
-.footer .address {
-  max-width: 265px;
-}
 
 
